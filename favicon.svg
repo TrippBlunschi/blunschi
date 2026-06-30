@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Blunschi Enterprises</title>
+  <defs>
+    <linearGradient id="be-gradient" x1="10" x2="54" y1="8" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#127c7a"/>
+      <stop offset="1" stop-color="#345f92"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#be-gradient)"/>
+  <text x="32" y="41" text-anchor="middle" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="800">BE</text>
+</svg>
